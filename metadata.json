@@ -1,0 +1,6 @@
+{
+  "name": "KisanFleet",
+  "description": "Smart Agricultural Equipment Sharing & Fleet Optimization Network",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
